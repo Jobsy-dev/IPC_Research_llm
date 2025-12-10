@@ -1,4 +1,9 @@
+# Ignore secrets and local config
 .env
+
+# Ignore local data folder (optional – keeps repo smaller)
 Data/
+
+# Python junk
 __pycache__/
 *.pyc
