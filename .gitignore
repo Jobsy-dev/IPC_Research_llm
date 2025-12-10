@@ -1,5 +1,4 @@
 .env
 Data/
-materials_dataset_final.csv
 __pycache__/
 *.pyc

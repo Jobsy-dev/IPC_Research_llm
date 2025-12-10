@@ -1,0 +1,375 @@
+﻿row_id,paper_id,page_num,chemical_composition,alloy_composition,density,tensile_strength,elongation,thermal_conductivity,thermal_expansion,manufacturing_process,source_label,source_snippet,extracted_from
+1,1-s2.0-S0921509321007802-main,0,Cu-4at% Cr-2at% Nb,GRCop-42,,UTS = 350-700 MPa @ ambient temperature,,70–85% of pure copper thermal conductivity,,Laser Powder Bed Fusion (L-PBF),Text,"This study quantifies size effects on microstructure and mechanical properties of Laser Powder Bed Fusion (L-PBF) Copper–Chromium–Niobium Alloys, specifically GRCop-42 (Copper-4at% Chromium-2at% Niobium Alloy).
+The GRC alloy family, developed by NASA Glenn Research Center, offers improved mechanical strength (ambient temperature ultimate tensile strength between 350 and 700 MPa, compared to 300 MPa for pure copper) while maintaining 70–85% the thermal conductivity of pure copper [2–6].
+Pure copper has thermal conductivity in the range of 400W/mK",text
+2,1-s2.0-S0921509321007802-main,1,,316L stainless steel,,,,,,L-PBF,Text,"Roach et al. [19] showed a 50% drop in modulus of elasticity, yield strength, and ultimate tensile strength in L-PBF 316L stainless steel parts as thickness decreased from 6.5 to 0.4 mm.",text
+3,1-s2.0-S0921509321007802-main,2,,GRCop-42,,,,,,"Stress relief (SR) by heating to 425 ◦C ±25 ◦C for 2 h, ±15 min in a vacuum atmosphere, followed by air cooling.",Text,"The stress relief is performed by heating the samples to 425 ◦C ±25 ◦C for 2 h, ±15 min in a vacuum atmosphere, followed by air cooling.",text
+4,1-s2.0-S0921509321007802-main,2,,GRCop-84,,,,,,,Text,the Aerospace Structural Materials Handbook reports the solidus temperature of GRCop-84 to be about 1080 ◦C ±10 ◦C [4].,text
+5,20250513--GRX-810_Addtional_NASA_Data,1,"Al 0.3%, C 0.055%, Cr 30%, Co 32%, Nb 0.8%, Ni Balance, Re 1.5%, Ti 0.3%, W 3.0%",,,,,,,"HIP – ASTM 3301 (Temperature: 1163°C, Time: 3-4 hours, Stress: 103 MPa); L-PBF (Laser Power: 275 W, Scan Speed: 1000 mm/s, Layer Thickness: 0.04 mm)","Table 1, Table 2, Table 3","Table 1: Nominal composition for base powder GRX-810.
+Element Nominal
+Al 0.3%
+C 0.055%
+Cr 30%
+Co 32%
+Nb 0.8%
+Ni Balance
+Re 1.5%
+Ti 0.3%
+W 3.0%
+Table 2: Heat treatment used performed on GRX-810 samples used for material test data.
+Heat Treatment Temperature Time Stress
+HIP – ASTM 3301 1163°C 3-4 hours 103 MPa
+Table 3: L-PBF core process parameters for GRX-810.
+Laser Power (W) Scan Speed (mm/s) Layer Thickness (mm)
+275 1000 0.04",table
+6,20250513--GRX-810_Addtional_NASA_Data,2,,,8.44 g/cm3 @ Room Temperature,,,11.0 W/m*K @ Room Temperature,10.6×10^-6/K @ Room Temperature,HIP,Table 4,"Table 4: Room Temperature Properties for HIP GRX-810
+Density (g/cm3) 8.44
+Coefficient of Thermal Expansion (10-6/K) 10.6
+Thermal Conductivity (W/m*K) 11.0",table
+7,20250513--GRX-810_Addtional_NASA_Data,2,,,8.44 g/cm3 @ Room Temperature,,,10.55 W/m*K @ Room Temperature,11.8×10^-6/K @ Room Temperature,As-built,Table 5,"Table 5: Room Temperature Properties for As-built GRX-810
+Density (g/cm3) 8.44
+Coefficient of Thermal Expansion (10-6/K) 11.8
+Thermal Conductivity (W/m*K) 10.55",table
+8,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,10.7 W/m/K @ 25 C,,As-built,Table 6,25 0.420 0.0295 10.7,table
+9,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,12.0 W/m/K @ 100 C,,As-built,Table 6,100 0.428 0.0322 12.0,table
+10,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,13.9 W/m/K @ 200 C,,As-built,Table 6,200 0.444 0.0357 13.9,table
+11,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,15.6 W/m/K @ 300 C,,As-built,Table 6,300 0.454 0.0388 15.6,table
+12,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,17.3 W/m/K @ 400 C,,As-built,Table 6,400 0.467 0.0417 17.3,table
+13,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,18.6 W/m/K @ 500 C,,As-built,Table 6,500 0.471 0.0443 18.6,table
+14,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,18.8 W/m/K @ 600 C,,As-built,Table 6,600 0.440 0.0467 18.8,table
+15,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,24.1 W/m/K @ 700 C,,As-built,Table 6,700 0.559 0.0487 24.1,table
+16,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,25.3 W/m/K @ 800 C,,As-built,Table 6,800 0.570 0.0505 25.3,table
+17,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,26.7 W/m/K @ 900 C,,As-built,Table 6,900 0.587 0.0520 26.7,table
+18,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,30.0 W/m/K @ 1000 C,,As-built,Table 6,1000 0.650 0.0532 30.0,table
+19,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,32.6 W/m/K @ 1100 C,,As-built,Table 6,1100 0.694 0.0541 32.6,table
+20,20250513--GRX-810_Addtional_NASA_Data,4,,,,,,28.7 W/m/K @ 1200 C,,As-built,Table 6,1200 0.635 0.0547 28.7,table
+21,6.2017-4670,1,Cu-8 at.% Cr-4 at.% Nb,NASA GRC Copper-alloy,,,,,,,Text (Definitions),GRCop-84 = NASA GRC Copper-alloy (Cu-8 at.% Cr-4 at.% Nb),text
+22,6.2017-4670,2,Cu-3 wt.% Ag-0.5 wt.% Zr,NARloy-Z,,,,,,,Text,A variety of copper-based alloys such as NARloy-Z (Cu-3 wt.% Ag-0.5 wt.% Zr) and C-18150 have been used for combustion chambers in prior and current programs5.,text
+23,6.2017-4670,3,Cr2Nb 14 vol.%,GRCop-84,,,,,,SLM,Text,"Most likely, the 14 vol.% Cr Nb phase is partially responsible for a higher absorption of laser energy than pure copper and results in easier heating initially.",text
+24,6.2017-4670,4,,,,,,,,Normal annealing temperature = 600 °C (1112 °F),Text,The HIPing temperature was well above the normal 600 °C (1112 °F) annealing temperature of GRCop-84.,text
+25,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,1,Cu–8Cr–4Nb (at%),GRCop-84,,,,,,,Text,"emphasis on Cu–8Cr–4Nb(at%),or GRCop-84, and Cu–4Cr–2Nb, or GRCop-42.",text
+26,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,1,Cu–4Cr–2Nb (at%),GRCop-42,,,,,,,Text,"emphasis on Cu–8Cr–4Nb(at%),or GRCop-84, and Cu–4Cr–2Nb, or GRCop-42.",text
+27,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,2,Cu-3.5Ag (wt-%),NARloy-A,,,,,,cast,Text,"Rocketdyne developed a copper alloy based on their previous work with NARloy-A, a cast Cu-3.5Ag (wt-%) alloy,",text
+28,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,2,Cu–3Ag–0.5 Zr (wt-%),NARloy-Z,,,,,,"vacuum melting, vacuum centrifugally casting, hot spun forging, machining",Text,"Rocketdyne developed a copper alloy based on their previous work with NARloy-A, a cast Cu-3.5Ag (wt-%) alloy, by adding Zr to a ratio of Cu–3Ag–0.5 Zr (wt-%) and vacuum melting and vacuum centrifugally casting [16]. Cu–3Ag–0.5Zr was trademarked NARloy-Z and formed into combustion chamber liners by a combination of hot spun forging and machining by Rocketdyne [16].",text
+29,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Ag 3.0 wt% [1.79 at%], Cu 96.5 wt% [97.86 at%], Zr 0.5 wt% [0.35 at%]",,,,,,,,Table 1,NARloy-Z 3.0[1.79] – – 96.5[97.86] – – 0.5[0.35],table
+30,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Cu 99.85 wt% [99.9 at%], Zr 0.15 wt% [0.10 at%]",,,,,,,,Table 1,AMZIRC C15000 – – – 99.85[99.9] – – 0.15[0.10],table
+31,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Al 0.15 wt% [0.08 at%], Cu 99.68 wt% [99.8 at%], O 0.17 wt% [0.12 at%]",,,,,,,,Table 1,GlidCopAL-15 C15715 – 0.15[0.08] – 99.68[99.8] – 0.17[0.12] –,table
+32,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Cr 6.2–6.8 wt% [7.6–8.3 at%], Cu 88.4–87.2 wt% [87.3–88.69 at%], Nb 5.4–6 wt% [3.7–4.1 at%]",,,,,,,,Table 1,GRCop-84* – – 6.2–6.8[7.6–8.3] 88.4–87.2[87.3–88.69] 5.4–6[3.7–4.1] – –,table
+33,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Cr 3.1–3.4 wt% [3.8–4.2 at%], Cu 94.2–93.6 wt% [94.4–93.8 at%], Nb 2.7–3 wt% [1.8–2.1 at%]",,,,,,,,Table 1,GRCop-42* – – 3.1–3.4[3.8–4.2] 94.2–93.6[94.4–93.8] 2.7–3[1.8–2.1] – –,table
+34,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,4,"Cr 0.6–0.9 wt% [0.73–1.10 at%], Cu Balance, Zr 0.07–0.15 wt% [0.05–0.10 at%]",,,,,,,,Table 1,CuCrZr-IG+ – – 0.6–0.9[0.73–1.10] Balance – – 0.07–0.15[0.05–0.10],table
+35,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,5,Cu–Ag–Zr,,,,,,,Ag precipitates coarsen and degrade strength above 866K,Table 2,above866KAg precipitatescoarseninthematrixbecomingincoherentanddegradingmaterial strength,table
+36,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,5,Cu–Zr,,,,,,,Approximately 80% of strengthening from CW; aging has limited effect; strength retained up to 773K; intermetallics form as relatively large μm-sized precipitates,Table 2,"Approximately80%ofstrengtheningfromCWratherthanparticlestrengthening; aginghaslimitedeffect;strengthretainedupto773K;Zrprovidesbenefits similar to NARloy-Z,andintermetallicsformasrelativelylargeμm-sized precipitates",table
+37,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,5,Cu–Al2O3,,,,,,,"Finely dispersed, nanometer oxide particles; CW can be used to enhance mechanical performance",Table 2,"Finelydispersed,nanometeroxideparticlesinsidegrainsoratgrainboundaries providemostofGlidCop’sstrengthening,thoughCWcanbeusedtoenhance mechanicalperformance",table
+38,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Ag,,,,425 W/m·K @ 0–100 °C,,,Table 3,Ag 1234 8.04[4.9][2] 425 1.65 FCC,table
+39,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Cr,,,,91.3 W/m·K @ 0–100 °C,,,Table 3,Cr 2180 0.73[0.89][3] 91.3 1.66 BCC,table
+40,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Cu,,,,397 W/m·K @ 0–100 °C,,,Table 3,Cu 1358 – 397 1.45 FCC,table
+41,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Nb,,,,54.1 W/m·K @ 0–100 °C,,,Table 3,Nb 2750 1.31[0.9][4] 54.1 1.98 BCC,table
+42,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Zr,,,,22.6 W/m·K @ 0–100 °C,,,Table 3,Zr 2128 0.17[0.12][5] 22.6 HCP,table
+43,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,6,,Cu,,YS = 27.6 MPa (grain size 1 cm) @ room temperature; YS = 31.1 MPa (grain size 1 mm) @ room temperature; YS = 186 MPa (grain size 1 μm) @ room temperature; YS = 532 MPa (grain size 100 nm) @ room temperature,,,,,Text,"Using these constants, the strength for Cu with an average grain size of 1cm, 1mm, 1 μm, and 100nm is approximately 27.6, 31.1, 186, and 532MPa, respectively.",text
+44,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,10,,Cu,,,,,17×10^-6 /K @ room temperature,,Text,"copper’s high thermal expansion coefficient, 17×10 −6 C −1 at room temperature",text
+45,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,10,,Al2O3,3.97 g/cm^3,,,,7.6×10^-6 /K @ 773K,,Table 4,AlO [1] −1667 2323 380 3.97 7.6[773K],table
+46,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,10,,SiC,3.18 g/cm^3,,,,4.3×10^-6 /K @ 293K,,Table 4,SiC[1] −67 2700 207 3.18 4.3[293K],table
+47,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,10,,Cr2Nb (C15),7.71 g/cm^3,,,,6.4×10^-6 /K @ 293K,,Table 4,CrNb(C15) −21[2]* 1858** 205[3] 7.71 6.4*[293K][3]*,table
+48,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,10,,Cu,8.96 g/cm^3,,,,17×10^-6 /K @ 293K,,Table 4,Cu 0 1358 110[4] 8.96 17[293K],table
+49,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,11,Cr2Nb solubility < 1 wt-%,Cu-Cr-Nb alloy,,,,,,,Text,The maximum solid solubility of Cr2Nb is less than 1wt-% at the solidus (or on final solidification),text
+50,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,12,Cr2Nb,,,,,,,,Text,"Cr2Nb solidifies first as the hexagonal C14 Laves phase or MgZn structure type and transforms to the cubic C15 Laves phase or Mg Cu between 1893 and 1923K [64,65].",text
+51,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,13,Cr2Nb,,,,,,,,Text,These Cr2Nb melts congruently at 2006K,text
+52,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,2:1 Cr:Nb atomic ratio balanced by Cu,,,,,,"Master alloys produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under Ar atmosphere; some ribbons consolidated by vacuum hot pressing at 124.2MPa and 923K for 1 hr",Text,"Ellis and Michal tested a range of stoichiometric Cr2Nb or 2:1, Cr:Nb atomic ratios balanced by Cu including 2:1, 4:2, 6:3, 8:4, and 10:5 [9]... Master alloys in these ratios were first produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under an Ar atmosphere with a chilled Cu wheel [9,71,72]... Some of the ribbons were consolidated for by vacuum hot pressing at 124.2MPa and 923K for 1 hr [72].",text
+53,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,4:2 Cr:Nb atomic ratio balanced by Cu,,,,,,"Master alloys produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under Ar atmosphere; some ribbons consolidated by vacuum hot pressing at 124.2MPa and 923K for 1 hr",Text,"Ellis and Michal tested a range of stoichiometric Cr2Nb or 2:1, Cr:Nb atomic ratios balanced by Cu including 2:1, 4:2, 6:3, 8:4, and 10:5 [9]... Master alloys in these ratios were first produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under an Ar atmosphere with a chilled Cu wheel [9,71,72]... Some of the ribbons were consolidated for by vacuum hot pressing at 124.2MPa and 923K for 1 hr [72].",text
+54,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,6:3 Cr:Nb atomic ratio balanced by Cu,,,,,,"Master alloys produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under Ar atmosphere; some ribbons consolidated by vacuum hot pressing at 124.2MPa and 923K for 1 hr",Text,"Ellis and Michal tested a range of stoichiometric Cr2Nb or 2:1, Cr:Nb atomic ratios balanced by Cu including 2:1, 4:2, 6:3, 8:4, and 10:5 [9]... Master alloys in these ratios were first produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under an Ar atmosphere with a chilled Cu wheel [9,71,72]... Some of the ribbons were consolidated for by vacuum hot pressing at 124.2MPa and 923K for 1 hr [72].",text
+55,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,8:4 Cr:Nb atomic ratio balanced by Cu,,,,,,"Master alloys produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under Ar atmosphere; some ribbons consolidated by vacuum hot pressing at 124.2MPa and 923K for 1 hr",Text,"Ellis and Michal tested a range of stoichiometric Cr2Nb or 2:1, Cr:Nb atomic ratios balanced by Cu including 2:1, 4:2, 6:3, 8:4, and 10:5 [9]... Master alloys in these ratios were first produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under an Ar atmosphere with a chilled Cu wheel [9,71,72]... Some of the ribbons were consolidated for by vacuum hot pressing at 124.2MPa and 923K for 1 hr [72].",text
+56,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,10:5 Cr:Nb atomic ratio balanced by Cu,,,,,,"Master alloys produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under Ar atmosphere; some ribbons consolidated by vacuum hot pressing at 124.2MPa and 923K for 1 hr",Text,"Ellis and Michal tested a range of stoichiometric Cr2Nb or 2:1, Cr:Nb atomic ratios balanced by Cu including 2:1, 4:2, 6:3, 8:4, and 10:5 [9]... Master alloys in these ratios were first produced by induction melting and casting, then re-melted and solidified into ribbons and flakes by CBMS under an Ar atmosphere with a chilled Cu wheel [9,71,72]... Some of the ribbons were consolidated for by vacuum hot pressing at 124.2MPa and 923K for 1 hr [72].",text
+57,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,GRCop-84 (8:4 Cr:Nb ratio balanced by Cu),,,,,,"alloyed by gas atomisation, hot-extruded into cylindrical bars at 1130K, and tested in the as-extruded condition with no additional heat treatments",Text,"Following their preliminary work, Ellis and Michal performed extensive testing on the 8:4 and 4:2 Cr:Nb ratio alloys and directly compared NARloy-Z fabricated and tested under the same conditions in 1996 [26]. Instead of alloying with CBMS, both GRCop alloys were first alloyed by gas atomisation, hot-extruded into cylindrical bars at 1130K, and tested in the as-extruded condition with no additional heat treatments [26].",text
+58,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,14,,GRCop-42 (4:2 Cr:Nb ratio balanced by Cu),,,,,,"alloyed by gas atomisation, hot-extruded into cylindrical bars at 1130K, and tested in the as-extruded condition with no additional heat treatments",Text,"Following their preliminary work, Ellis and Michal performed extensive testing on the 8:4 and 4:2 Cr:Nb ratio alloys and directly compared NARloy-Z fabricated and tested under the same conditions in 1996 [26]. Instead of alloying with CBMS, both GRCop alloys were first alloyed by gas atomisation, hot-extruded into cylindrical bars at 1130K, and tested in the as-extruded condition with no additional heat treatments [26].",text
+59,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,15,Cr/Nb ratio 2.02 to 2.05,GRCop alloys,,,,,,,Text referring to Table 2,"Additionally, a slight off-stoichiometric excess of Cr is added to suppress Nb precipitate formation and H embrittlement concerns ranging from 2.02 to 2.05 Cr/Nb based on powder compositions presented in Table 2.",text
+60,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,15,,GRCop alloys,,,,,,Standard gas atomisation with inert gas: cooling rate of 10^2–10^3 K s^-1,Text,Standard gas atomisation with inert gas has a lower cooling rate of 102–103 K s −1 compared to CBMS,text
+61,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,16,,GRCop-84,,,,,,"extruded, followed by 1273K exposure for 30min",Figure 8 caption,(d) Extruded microstructure after 1273K exposure for 30min demonstrating more visible grain and particle boundaries[1],text
+62,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,17,,GRCop-84,,,,,,Recovery and recrystallisation occurs between 473 and 873 K depending on the degree of cold work.,Text [86],recovery and recrystallisation occurs between 473 and 873K depending on the degree of cold work,text
+63,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,17,,GRCop-84,,,,,,"L-PBF default parameters: core laser power of 180 W, core scan speed of 800 mm/s, hatch width of 0.105 mm, build layer thickness of 0.03 mm, and core energy density of 95.2 J/mm³.",Text [90],"The default parameters for GRCop-84 include a core laser power of 180 W, core scan speed of 800 mm s −1, hatch width of 0.105 mm, build layer thickness of 0.03 mm, and core energy density of 95.2 J mm −3.",text
+64,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,17,,GRCop-42,,,,,,"L-PBF coolest, fastest parameters: laser power of 270 W, scan speed of 1,025 m/s, hatch width of 0.099 mm, build layer thickness of 0.045 mm, and energy density of 59.1 J/mm³.",Text [90],"The coolest, fastest parameters in this memorandum for GRCop-42 are 270 W, 1,025 m s −1, 0.099, 0.045 mm, and 59.1 J mm −3 in the same order as the parameters for GRCop-84 [90].",text
+65,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,18,,,,,,,,"extruded, then aged at 1323K for 100h",Text,"Even after an aging of 1323K for 100h, the mean primary precipitate diameter only increased from 0.93±0.04 to 1.35±0.03 μm, where the±represents standard error [92].",text
+66,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,19,,GRCop-84,,,,∼76% of OFHC's room temperature thermal conductivity (∼400 W mK^-1) @ room temperature,,"extruded, <20ppm Fe",Text,"At room temperature, extruded, <20ppm Fe, GRCop-84’s thermal conductivity is ∼76%, based on Figure 9, of OFHC’s room temperature thermal con- ductivity, ∼400 W mK −1 [78]",text
+67,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,19,,GRCop-42,,,,∼86.5% OFHC Cu @ room temperature,,Extruded,Text,"Extruded GRCop-42’s lower alloying content provides signifi- cantlyfewer scatteringsites,whichresultsinathermal conductivity ∼86.5% OFHC Cu at room temperature",text
+68,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,19,,GRCop-84,,,,∼79.5% OFHC Cu @ ∼535K,,"Extruded, <20ppm Fe",Text,"Extruded <20ppm Fe GRCop-84’s thermal conduc- tivity,showninFigure9,demonstratessometempera- ture dependence. The thermal conductivity first increases to a maximum value of ∼79.5% OFHC Cu at ∼535K",text
+69,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,19,,GRCop-84,,,,,,as-extruded,Text,"When the yield point is reached, as-extruded GRCop-84 rapidly reaches a stress near its UTS and remains near that stress for 10–20% elongation followed by 5–15% elongation during necking before failure [86].",text
+70,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-84,8.81–8.83 kgm−3,"YS = 196.2 MPa @ Room temperature, UTS = 368 MPa @ Room temperature",,284 Wm−1K−1,,Extruded,Table 5,ExtrudedGRCop-84 196.2 368[1] 21.7[1] 39.7[1] 112[2] 8.81–8.83+[3] 381.8++[3] 284i[4],table
+71,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-84,,"YS = 187 MPa @ Room temperature, UTS = 361 MPa @ Room temperature",,304 Wm−1K−1,,"Extruded, Brazed at 1208 K",Table 5,187*[1] 361*[1] 25.5*[1] 40.6*[1] 304ii[4],table
+72,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-84,,"YS = 226 MPa @ Room temperature, UTS = 368.2 MPa @ Room temperature",,,,Extruded,Table 5,226[5] 368.2[5],table
+73,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-42,8.88–8.89 kgm−3,"YS = 200 MPa @ Room temperature, UTS = 422 MPa @ Room temperature",,,,Extruded,Table 5,ExtrudedGRCop-42 200[5] 422[5] 30[5] 8.88–8.89+[3] 346[5],table
+74,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-84,,"YS = 208 MPa @ Room temperature, UTS = 390 MPa @ Room temperature",,,,SLM & HIP,Table 5,SLM&HIPGRCop-84 208[5] 390[5] 30[5],table
+75,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,20,,GRCop-42,,"YS = 173 MPa @ Room temperature, UTS = 357 MPa @ Room temperature",,,,SLM & HIP,Table 5,SLM&HIPGRCop-42 173[5] 357[5] 32.9[5],table
+76,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,21,,Cu-1Cr-0.1Zr,,YS and UTS (as-received) are better than GRCop-84; YS and UTS (brazed) are at least half that of brazed GRCop-84.,,,,"as-received, brazed",Text,"Although as-received Cu-1Cr-0.1Zr and Cu-0.9Cr have better UTS and YS then GRCop-84, their brazed counterparts are at least half that of brazed GRCop-84...",text
+77,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,21,,Cu-0.9Cr,,YS and UTS (as-received) are better than GRCop-84; YS and UTS (brazed) are at least half that of brazed GRCop-84.,,,,"as-received, brazed",Text,"Although as-received Cu-1Cr-0.1Zr and Cu-0.9Cr have better UTS and YS then GRCop-84, their brazed counterparts are at least half that of brazed GRCop-84...",text
+78,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,21,,GRCop-84,,Superior UTS and YS values above 773K; exhibits limited UTS and YS loss compared to other alloys at all temperatures.,,,,brazed,Text,"While other alloys demonstrate better UTS and YS below 773K, brazed GlidCop Al-15 and GRCop-84 have superior UTS and YS values above 773K. Although as-received Cu-1Cr-0.1Zr and Cu-0.9Cr have better UTS and YS then GRCop-84, their brazed counterparts are at least half that of brazed GRCop-84...At alltemperatures,GRCop-84andGlidCopAl-15arethe least effected by the brazing cycle and exhibit limited UTS and YS loss compared to the other alloys.",text
+79,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,21,,GlidCop Al-15,,Superior UTS and YS values above 773K; exhibits limited UTS and YS loss compared to other alloys at all temperatures.,,,,brazed,Text,"While other alloys demonstrate better UTS and YS below 773K, brazed GlidCop Al-15 and GRCop-84 have superior UTS and YS values above 773K...At alltemperatures,GRCop-84andGlidCopAl-15arethe least effected by the brazing cycle and exhibit limited UTS and YS loss compared to the other alloys.",text
+80,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 564 MPa @ 300K,,,,As-received,Table 6(a),Cu-1Cr-0.1Zr As-received 564 293 125,table
+81,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 293 MPa @ 773K,,,,As-received,Table 6(a),Cu-1Cr-0.1Zr As-received 564 293 125,table
+82,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 125 MPa @ 923K,,,,As-received,Table 6(a),Cu-1Cr-0.1Zr As-received 564 293 125,table
+83,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 509 MPa @ 300K,,,,As-received,Table 6(a),AMZIRC As-received 509 264 125,table
+84,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 264 MPa @ 773K,,,,As-received,Table 6(a),AMZIRC As-received 509 264 125,table
+85,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 125 MPa @ 923K,,,,As-received,Table 6(a),AMZIRC As-received 509 264 125,table
+86,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 495 MPa @ 300K,,,,As-received,Table 6(a),Cu-0.9Cr As-received 495 206 118,table
+87,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 206 MPa @ 773K,,,,As-received,Table 6(a),Cu-0.9Cr As-received 495 206 118,table
+88,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 118 MPa @ 923K,,,,As-received,Table 6(a),Cu-0.9Cr As-received 495 206 118,table
+89,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 464 MPa @ 300K,,,,As-received,Table 6(a),GlidCopAl-15 As-received 464 184 104,table
+90,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 184 MPa @ 773K,,,,As-received,Table 6(a),GlidCopAl-15 As-received 464 184 104,table
+91,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 104 MPa @ 923K,,,,As-received,Table 6(a),GlidCopAl-15 As-received 464 184 104,table
+92,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 408 MPa @ 300K,,,,Brazed,Table 6(a),GlidCopAl-15 Brazed 408 174 86,table
+93,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 174 MPa @ 773K,,,,Brazed,Table 6(a),GlidCopAl-15 Brazed 408 174 86,table
+94,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 86 MPa @ 923K,,,,Brazed,Table 6(a),GlidCopAl-15 Brazed 408 174 86,table
+95,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 368 MPa @ 300K,,,,As-received,Table 6(a),GRCop-84 As-received 368 153 82,table
+96,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 153 MPa @ 773K,,,,As-received,Table 6(a),GRCop-84 As-received 368 153 82,table
+97,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 82 MPa @ 923K,,,,As-received,Table 6(a),GRCop-84 As-received 368 153 82,table
+98,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 361 MPa @ 300K,,,,Brazed,Table 6(a),GRCop-84 Brazed 361 148 46,table
+99,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 148 MPa @ 773K,,,,Brazed,Table 6(a),GRCop-84 Brazed 361 148 46,table
+100,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 46 MPa @ 923K,,,,Brazed,Table 6(a),GRCop-84 Brazed 361 148 46,table
+101,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,UTS = 315 MPa @ 300K (estimated),,,,STA,Table 6(a),NARloy-Z* STA 315 187 33,table
+102,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,UTS = 187 MPa @ 773K (estimated),,,,STA,Table 6(a),NARloy-Z* STA 315 187 33,table
+103,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,UTS = 33 MPa @ 923K (estimated),,,,STA,Table 6(a),NARloy-Z* STA 315 187 33,table
+104,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 266 MPa @ 300K,,,,Brazed,Table 6(a),Cu-1Cr-0.1Zr Brazed 266 89 34,table
+105,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 89 MPa @ 773K,,,,Brazed,Table 6(a),Cu-1Cr-0.1Zr Brazed 266 89 34,table
+106,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 34 MPa @ 923K,,,,Brazed,Table 6(a),Cu-1Cr-0.1Zr Brazed 266 89 34,table
+107,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 245 MPa @ 300K,,,,Brazed,Table 6(a),Cu-0.9Cr Brazed 245 62 32,table
+108,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 62 MPa @ 773K,,,,Brazed,Table 6(a),Cu-0.9Cr Brazed 245 62 32,table
+109,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 32 MPa @ 923K,,,,Brazed,Table 6(a),Cu-0.9Cr Brazed 245 62 32,table
+110,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 231 MPa @ 300K,,,,Brazed,Table 6(a),AMZIRC Brazed 231 104,table
+111,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 104 MPa @ 773K,,,,Brazed,Table 6(a),AMZIRC Brazed 231 104,table
+112,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,OFHCCu,,UTS = 217 MPa @ 300K (estimated),,,,Unknown,Table 6(a),OFHCCu* Unknown 217 84,table
+113,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,OFHCCu,,UTS = 84 MPa @ 773K (estimated),,,,Unknown,Table 6(a),OFHCCu* Unknown 217 84,table
+114,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 125 MPa @ 923K,,,,As-received,Table 6(a),125 As-received GlidCopAl-15,table
+115,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,UTS = 125 MPa @ 923K,,,,Brazed,Table 6(a),125 Brazed GlidCopAl-15,table
+116,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 118 MPa @ 923K,,,,As-received,Table 6(a),118 As-received Cu-1Cr-0.1Zr,table
+117,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 104 MPa @ 923K,,,,As-received,Table 6(a),104 As-received Cu-0.9Cr,table
+118,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 86 MPa @ 923K,,,,As-received,Table 6(a),86 As-received GRCop-84,table
+119,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,UTS = 82 MPa @ 923K,,,,Brazed,Table 6(a),82 Brazed GRCop-84,table
+120,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,UTS = 46 MPa @ 923K,,,,Brazed,Table 6(a),46 Brazed Cu-1Cr-0.1Zr,table
+121,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,UTS = 34 MPa @ 923K,,,,Brazed,Table 6(a),34 Brazed Cu-0.9Cr,table
+122,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 33 MPa @ 923K,,,,Brazed,Table 6(a),33 Brazed AMZIRC,table
+123,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,UTS = 32 MPa @ 923K,,,,As-received,Table 6(a),32 As-received AMZIRC,table
+124,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 551 MPa @ 300K,,,,As-received,Table 6(b),Cu-1Cr-0.1Zr As-received 551 284 126,table
+125,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 284 MPa @ 773K,,,,As-received,Table 6(b),Cu-1Cr-0.1Zr As-received 551 284 126,table
+126,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 126 MPa @ 923K,,,,As-received,Table 6(b),Cu-1Cr-0.1Zr As-received 551 284 126,table
+127,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 501 MPa @ 300K,,,,As-received,Table 6(b),AMZIRC As-received 501 261 126,table
+128,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 261 MPa @ 773K,,,,As-received,Table 6(b),AMZIRC As-received 501 261 126,table
+129,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 126 MPa @ 923K,,,,As-received,Table 6(b),AMZIRC As-received 501 261 126,table
+130,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 442 MPa @ 300K,,,,As-received,Table 6(b),Cu-0.9Cr As-received 442 207 112,table
+131,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 207 MPa @ 773K,,,,As-received,Table 6(b),Cu-0.9Cr As-received 442 207 112,table
+132,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 112 MPa @ 923K,,,,As-received,Table 6(b),Cu-0.9Cr As-received 442 207 112,table
+133,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 465 MPa @ 300K,,,,As-received,Table 6(b),GlidCopAl-15 As-received 465 184 100,table
+134,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 184 MPa @ 773K,,,,As-received,Table 6(b),GlidCopAl-15 As-received 465 184 100,table
+135,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 100 MPa @ 923K,,,,As-received,Table 6(b),GlidCopAl-15 As-received 465 184 100,table
+136,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 409 MPa @ 300K,,,,Brazed,Table 6(b),GlidCopAl-15 Brazed 409 175 73,table
+137,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 175 MPa @ 773K,,,,Brazed,Table 6(b),GlidCopAl-15 Brazed 409 175 73,table
+138,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 73 MPa @ 923K,,,,Brazed,Table 6(b),GlidCopAl-15 Brazed 409 175 73,table
+139,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 196 MPa @ 300K,,,,As-received,Table 6(b),GRCop-84 As-received 196 114 69,table
+140,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 114 MPa @ 773K,,,,As-received,Table 6(b),GRCop-84 As-received 196 114 69,table
+141,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 69 MPa @ 923K,,,,As-received,Table 6(b),GRCop-84 As-received 196 114 69,table
+142,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 187 MPa @ 300K,,,,Brazed,Table 6(b),GRCop-84 Brazed 187 105 55,table
+143,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 105 MPa @ 773K,,,,Brazed,Table 6(b),GRCop-84 Brazed 187 105 55,table
+144,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 55 MPa @ 923K,,,,Brazed,Table 6(b),GRCop-84 Brazed 187 105 55,table
+145,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,YS = 138 MPa @ 300K (estimated),,,,STA,Table 6(b),NARloy-Z* STA 138 93 36,table
+146,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,YS = 93 MPa @ 773K (estimated),,,,STA,Table 6(b),NARloy-Z* STA 138 93 36,table
+147,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,YS = 36 MPa @ 923K (estimated),,,,STA,Table 6(b),NARloy-Z* STA 138 93 36,table
+148,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 107 MPa @ 300K,,,,Brazed,Table 6(b),Cu-1Cr-0.1Zr Brazed 107 67 29,table
+149,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 67 MPa @ 773K,,,,Brazed,Table 6(b),Cu-1Cr-0.1Zr Brazed 107 67 29,table
+150,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 29 MPa @ 923K,,,,Brazed,Table 6(b),Cu-1Cr-0.1Zr Brazed 107 67 29,table
+151,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 90 MPa @ 300K,,,,Brazed,Table 6(b),Cu-0.9Cr Brazed 90 43 23,table
+152,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 43 MPa @ 773K,,,,Brazed,Table 6(b),Cu-0.9Cr Brazed 90 43 23,table
+153,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 23 MPa @ 923K,,,,Brazed,Table 6(b),Cu-0.9Cr Brazed 90 43 23,table
+154,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,OFHCCu,,YS = 52 MPa @ 300K (estimated),,,,As-received,Table 6(b),OFHCCu* As-received 52 33 16,table
+155,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,OFHCCu,,YS = 33 MPa @ 773K (estimated),,,,As-received,Table 6(b),OFHCCu* As-received 52 33 16,table
+156,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,OFHCCu,,YS = 16 MPa @ 923K (estimated),,,,As-received,Table 6(b),OFHCCu* As-received 52 33 16,table
+157,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 32 MPa @ 300K,,,,Brazed,Table 6(b),AMZIRC Brazed 32 25,table
+158,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 25 MPa @ 773K,,,,Brazed,Table 6(b),AMZIRC Brazed 32 25,table
+159,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 126 MPa @ 923K,,,,As-received,Table 6(b),126 As-received GlidCopAl-15,table
+160,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GlidCopAl-15,,YS = 126 MPa @ 923K,,,,Brazed,Table 6(b),126 Brazed GlidCopAl-15,table
+161,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 112 MPa @ 923K,,,,As-received,Table 6(b),112 As-received Cu-1Cr-0.1Zr,table
+162,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 100 MPa @ 923K,,,,As-received,Table 6(b),100 As-received Cu-0.9Cr,table
+163,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 73 MPa @ 923K,,,,As-received,Table 6(b),73 As-received GRCop-84,table
+164,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,GRCop-84,,YS = 69 MPa @ 923K,,,,Brazed,Table 6(b),69 Brazed GRCop-84,table
+165,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,NARloy-Z,,YS = 55 MPa @ 923K (estimated),,,,STA,Table 6(b),55 STA NARloy-Z*,table
+166,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-1Cr-0.1Zr,,,YS = 36 MPa @ 923K,,,,Brazed,Table 6(b),36 Brazed Cu-1Cr-0.1Zr,table
+167,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 29 MPa @ 923K,,,,As-received,Table 6(b),29 As-received AMZIRC,table
+168,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,Cu-0.9Cr,,,YS = 23 MPa @ 923K,,,,Brazed,Table 6(b),23 Brazed Cu-0.9Cr,table
+169,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,22,,AMZIRC,,YS = 16 MPa @ 923K,,,,Brazed,Table 6(b),16 Brazed AMZIRC,table
+170,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,23,,,,,,,,,Text,the strain is often in excess of 10%,text
+171,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,23,,,,,,,,,Text,total elongations of 8–14%,text
+172,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,NotSpecified,Table 7(a),GRCop-84 NotSpecified 773 4.77E−26 9.49 109,table
+173,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,NotSpecified,Table 7(a),GRCop-84 NotSpecified 923 7.17E−24 10.32 46,table
+174,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,Cu-1Cr-0.1Zr,,,,,,,Brazed,Table 7(a),Cu-1Cr-0.1Zr Brazed 773 5.94E−17 5.71 62,table
+175,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,Cu-1Cr-0.1Zr,,,,,,,Brazed,Table 7(a),Cu-1Cr-0.1Zr Brazed 923 1.50E−14 5.52 26,table
+176,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,Cu-0.9Cr*,,,,,,,Brazed,Table 7(a),Cu-0.9Cr* Brazed 773 4.00E−14 5.08 29,table
+177,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,Cu-0.9Cr,,,,,,,Brazed,Table 7(a),Cu-0.9Cr Brazed 923 1.27E−10 3.83 10,table
+178,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,NotSpecified,Table 7(b),GRCop-84 NotSpecified 773 1.042E−22 7.67 121,table
+179,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,NotSpecified,Table 7(b),GRCop-84 NotSpecified 923 3.400E−21 8.52 50,table
+180,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,L-PBF,Text,the minimum creep rate at 40MPa and 923K is 3×10⁻⁹ s⁻¹ for the L-PBF alloy,text
+181,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,24,,GRCop-84,,,,,,sheet,Text,and 3×10⁻⁷ s⁻¹ for sheet GRCop-84,text
+182,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,25,,GRCop-84,,,,,,LCF test strain rate = 0.12 min^-1,Text,This LCF experiment was strain controlled with a triangular waveform at a constant strain rate of 0.12min−1 [26].,text
+183,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,25,,"GRCop-84, GRCop-42",,,Total strain to failure >= 0.7%,,,"LCF test temperatures: room temperature, 673 K, 873 K",Text,"Gradl et al. also presented LCF results on wrought GRCop-84 and GRCop-42 at room temperature, 673, and 873K with a fully reversed triangular waveform under strain control [82]. The GRCop alloys were tested according to the total strain range with plastic strain and shown in Figure 17 [82]. Gradl et al. observed that both alloys did not fail below 0.7% total strain and have nearly equivalent performance from a practical engineering perspective [82].",text
+184,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,Pure Copper,,,,,α(T) = 4.718E−9(T)^2 + 1.268E−5(T) − 4.210E−3 (mm/mm); 0.74–1.15% at 700-900 K,,Table 8,PureCoppero 4.718E−9 1.268E−5 −4.210E−3 0.74–1.15,table
+185,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,NARloy-Z,,,,,α(T) = 3.883E−9(T)^2 + 1.414E−5(T) − 4.498E−3 (mm/mm); 0.73–1.13% at 700-900 K,,Table 8,NARloy-Z* 3.883E−9 1.414E−5 −4.498E−3 0.73–1.13,table
+186,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,AMZIRC,,,,,α(T) = 4.132E−9(T)^2 + 1.384E−5(T) − 4.257E−3 (mm/mm); 0.75–1.15% at 700-900 K,,Table 8,AMZIRC** 4.132E−9 1.384E−5 −4.257E−3 0.75–1.15,table
+187,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,"GlidCop, Al-15",,,,,α(T) = 3.989E−9(T)^2 + 1.401E−5(T) − 4.223E−3 (mm/mm); 0.75–1.16% at 700-900 K,,Table 8,"GlidCop,Al-15** 3.989E−9 1.401E−5 −4.223E−3 0.75–1.16",table
+188,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,Cu-1Cr-0.1Zr,Cu-1Cr-0.1Zr,,,,,α(T) = 4.947E−9(T)^2 + 1.289E−5(T) − 3.968E−3 (mm/mm); 0.75–1.16% at 700-900 K,,Table 8,Cu-1Cr-0.1Zr** 4.947E−9 1.289E−5 −3.968E−3 0.75–1.16,table
+189,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,GRCop-84,,,,,α(T) = 3.420E−9(T)^2 + 1.387E−5(T) − 4.380E−3 (mm/mm); 0.70–1.09% at 700-900 K,extruded condition,Table 8 and footnote +,"GRCop-84+ 3.420E−9 1.387E−5 −4.380E−3 0.70–1.09
++Intheextrudedconditionwith95%confidence;convertedfrompowerlawtoquadraticequation[4].",table
+190,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,GRCop-42,,,,,α(T) = 4.718E−9(T)^2 + 1.268E−5(T) − 4.210E−3 (mm/mm); 0.70–1.10% at 700-900 K,extruded condition,Table 8 and footnote ++,"GRCop-42++ 4.718E−9 1.268E−5 −4.210E−3 0.70–1.10
+++Intheextrudedcondition;estimatedfromgraphassume±5%accuracy[5].",table
+191,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,26,,GRCop-84,,,2% total strain @ room temperature; 0.7% total strain @ 811 K,,,,Figure 16 caption,"(a)GRCop-84testedatroomtemperatureand2%totalstrain;(b)GRCop-84testedat
+811Kand0.7%totalstrain;datacollectedusingstrain-controlledfatiguetestswithatriangularwaveformataconstantstrainrate
+of0.12/min",text
+192,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,27,,GlidCop Al-15,,,,,,,Text,"At a total strain range of1%undervacuumandat473,543,and673K,Glid- Cop Al-15 failed at approximately 6000, 3000, and 1500 cycles, respectively [97].",text
+193,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,27,,GRCop-84,,,,,,extruded,Text,"Based on the Figure 17 at the same strain, GRCop-84 fails at approximately 6000cyclesbetweenroomtemperatureand673Kand 5500 cycles at 873K compared to GRCop-42 which fails at 4500 cycles between room temperature and 873K [82].",text
+194,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,27,,GRCop-42,,,,,,extruded,Text,"Based on the Figure 17 at the same strain, GRCop-84 fails at approximately 6000cyclesbetweenroomtemperatureand673Kand 5500 cycles at 873K compared to GRCop-42 which fails at 4500 cycles between room temperature and 873K [82].",text
+195,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,29,Zr 0.1–0.5 wt-%,GRCop-84Z (GRCop-84 with Zr addition),,,,,,extruded,Text,"Ellis et al. [104] have shown that relatively low 0.1–0.5wt-% additions of Zr in extruded GRCop-84 (to GRCop-84Z) can improve the mechanical properties through the formation of Cu5Zr precipitates [8,104].",text
+196,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"0.65% Cr, 0.08% Zr, balance Cu",Cu-0.65 Cr-0.08 Zr alloy,,,,,,,[74],Hot tensile characteristics and microstructure of a Cu-0.65 Cr-0.08 Zr alloy for fusion reactor applications. J Nucl Mater. 1991;185(1):29–38.,text
+197,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% Cr, 4% Nb, balance Cu",Cu8Cr4Nb alloy,,,,,,,[79],"AndersonKR,etal.Microstructuralevolutionandther- malstabilityofprecipitation-strengthenedCu8Cr4Nb alloy.MaterSciEng:A.1993;169(1–2):167–175.",text
+198,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% Cr, 4% Nb, balance Cu",Cu-8 Cr-4 Nb alloy,,,,,,,[62],Anderson KR. High temperature coarsening of Cr2Nb precipitates in Cu-8 Cr-4 Nb alloy; M.S. Thesis:UniversityofCaliforniaDavis;1996.,text
+199,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% Cr, 4% Nb, balance Cu",Cu–8Cr–4Nb,,,,,,,[69],"Vettraino L, et al. Influence of processing on the microstructure of Cu–8Cr–4Nb. J Mater Sci. 2008;43(19):6546–6555.",text
+200,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% Cr, 4% Nb, balance Cu",Cu 8Cr 4Nb alloy,,,,,,,[91],Groza JR. Microstructural features of a new precipi- tation-strengthened Cu 8Cr 4Nb alloy. Mater Charact.1993;31(3):133–141.,text
+201,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% Cr, 4% Nb, balance Cu",Cu-8 Cr-4 Nb alloy,,,,,,,[92],"Anderson KR, et al. High-performance dispersion- strengthened Cu-8 Cr-4 Nb alloy. Metall Mater TransA.1995;26(9):2197–2206.",text
+202,Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,31,"8% chromium, 4% niobium, balance copper",copper–8% chromium–4% niobium alloy,,,,,,extruded,[94],"DeckerM,GrozaJ,GibelingJ.Creeppropertiesofanextrudedcopper–8%chromium–4%niobiumalloy. MaterSciEng:A.2004;369(1-2):101–111.",text
+203,20190033311,1,Cu-4 at.% Cr-2 at.% Nb,GRCop-42,,,,,,SLM,Text,specifically GRCop-42 (Cu-4 at.% Cr-2 at.% Nb) and GRCop-84 (Cu-8 at.% Cr-4 at.% Nb) alloys.,text
+204,20190033311,1,Cu-8 at.% Cr-4 at.% Nb,GRCop-84,,,,,,SLM,Text,specifically GRCop-42 (Cu-4 at.% Cr-2 at.% Nb) and GRCop-84 (Cu-8 at.% Cr-4 at.% Nb) alloys.,text
+205,20190033311,1,Cu-1 Cr-0.15 Zr,C-18150,,,,,,,Text,"such as NARloy-Z and C-18150 (Cu-1 Cr-0.15 Zr) [1,2,3,4].",text
+206,20190033311,2,,GRCop-42,,,,Ranges from ~350 W/m·K at 0°C to ~290 W/m·K at 1000°C (from graph),,,Fig. 2. Thermal Conductivity of Wrought GRCop Alloys and Pure Cu,"The conductivity of the wrought (non-AM) GRCop-84 and GRCop-42 materials are compared in Fig. 2.
+420
+Cu
+400
+y
+vit 380
+u
+cti
+360 GRCop-42
+o n
+d
+m
+K)
+340 L G o R w C o F p e -84 GRCop-42
+m al C ( W/
+320
+h
+er
+300 GRCop-84
+T
+280
+260
+0 200 400 600 800 1000
+2
+Temperature
+(°C)",table
+207,20190033311,2,0.5x Cr Nb content of GRCop-84,GRCop-42,,,,,,,Text,"With only half the Cr Nb content of GRCop-84, this was expected.",text
+208,20190033311,2,,GRCop-84,,,,Ranges from ~300 W/m·K at 0°C to ~250 W/m·K at 1000°C (from graph),,,Fig. 2. Thermal Conductivity of Wrought GRCop Alloys and Pure Cu,"The conductivity of the wrought (non-AM) GRCop-84 and GRCop-42 materials are compared in Fig. 2.
+420
+Cu
+400
+y
+vit 380
+u
+cti
+360 GRCop-42
+o n
+d
+m
+K)
+340 L G o R w C o F p e -84 GRCop-42
+m al C ( W/
+320
+h
+er
+300 GRCop-84
+T
+280
+260
+0 200 400 600 800 1000
+2
+Temperature
+(°C)",table
+209,20190033311,2,2x Cr Nb content of GRCop-42,GRCop-84,,,,,,,Text,"With only half the Cr Nb content of GRCop-84, this was expected.",text
+210,20190033311,2,,GRCop-84,,,,,,SLM,Text,"GRCop-84 is the most common alloy, having completed substantial process and property development using SLM under the LCUSP program.",text
+211,20190033311,2,,GRCop alloys,,retains at least 50% of its tensile strength after 100 hours at 1050 °C,,,,,Text,the alloys retain at least half their tensile strength when exposed up to 1050 °C for 100 hours.,text
+212,20190033311,4,"Cr 3.1 – 3.4 Wt %, Nb 2.7 – 3.0 Wt %, Fe Target <50 ppm, O Target <400 ppm, Al <50 ppm, Si <50 ppm, Cu Balance, Cr:Nb Ratio 1.12 – 1.15",GRCop-42,,,,,,,Table 1,"Table 1. Powder chemistry comparison of GRCop-
+42 with GRCop-84.
+
+Element GRCop-42 Wt % GRCop-84 Wt %
+Cr 3.1 – 3.4 6.2 – 6.8
+Nb 2.7 – 3.0 5.4 – 6.0
+Fe Target <50 ppm Target <50 ppm
+O Target <400 ppm Target <400 ppm
+Al <50 ppm <50 ppm
+Si <50 ppm <50 ppm
+Cu Balance Balance
+Cr:Nb Ratio 1.12 – 1.15 1.12 – 1.15",table
+213,20190033311,4,"Cr 6.2 – 6.8 Wt %, Nb 5.4 – 6.0 Wt %, Fe Target <50 ppm, O Target <400 ppm, Al <50 ppm, Si <50 ppm, Cu Balance, Cr:Nb Ratio 1.12 – 1.15",GRCop-84,,,,,,,Table 1,"Table 1. Powder chemistry comparison of GRCop-
+42 with GRCop-84.
+
+Element GRCop-42 Wt % GRCop-84 Wt %
+Cr 3.1 – 3.4 6.2 – 6.8
+Nb 2.7 – 3.0 5.4 – 6.0
+Fe Target <50 ppm Target <50 ppm
+O Target <400 ppm Target <400 ppm
+Al <50 ppm <50 ppm
+Si <50 ppm <50 ppm
+Cu Balance Balance
+Cr:Nb Ratio 1.12 – 1.15 1.12 – 1.15",table
+214,20190033311,4,,GRCop,99.2% minimum,,,,,SLM prior to Hot Isostatic Pressing (HIPing),Text,"A minimum density of 99.2%, and in many cases higher, was achieved by SLM prior to a Hot Isostatic Pressing (HIPing) operation.",text
+215,20190033311,4,,GRCop-42,,"UTS = 265 MPa @ room temperature, YS = 153 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 1 -325 without fines 265 153 8.7",table
+216,20190033311,4,,GRCop-42,,"UTS = 234 MPa @ room temperature, YS = 137 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 1 -270 without fines 234 137 7.2",table
+217,20190033311,4,,GRCop-42,,"UTS = 359 MPa @ room temperature, YS = 173 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 1 -325 with fines 359 173 32.5",table
+218,20190033311,4,,GRCop-42,,"UTS = 342 MPa @ room temperature, YS = 186 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 2 -325 without fines 342 186 21.3",table
+219,20190033311,4,,GRCop-42,,"UTS = 419 MPa @ room temperature, YS = 218 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 2 -325 with fines 419 218 28.4",table
+220,20190033311,4,,GRCop-42,,"UTS = 355 MPa @ room temperature, YS = 182 MPa @ room temperature",,,,SLM,Table 2,"Table 2. Mechanical characterization summary of
+GRCop-42 with various powder sizes.
+
+Powder Size Tensile Yield Elong.
+Source (mesh) (MPa) (MPa) (%)
+Vendor 3 -325 without fines 355 182 25.4",table
+221,20190033311,5,,GRCop-84,,"UTS = 368 MPa, YS = 197 MPa",,,,Extruded,Table 3,GRCop-84 Extruded 368 197 27,table
+222,20190033311,5,,GRCop-84,,"UTS = 390 MPa, YS = 208 MPa",,,,SLM (M2 machine),Table 3,"GRCop-84 SLM, M2 390 208 30",table
+223,20190033311,5,,GRCop-42,,"UTS = 354 MPa, YS = 200 MPa",,,,Extruded,Table 3,GRCop-42 Extruded 354 200 30,table
+224,20190033311,5,,GRCop-42,,"UTS = 359 MPa, YS = 173 MPa @ 20 °C",,,,SLM (M2 machine),Table 3,"GRCop-42 SLM, M2 359 173 32.2",table
+225,20190033311,5,,GRCop-42,,"UTS = 355 MPa, YS = 172 MPa @ 20 °C",,,,SLM (M400 machine),Table 3,"GRCop-42 SLM, M400 355 172 33.6",table
+226,20190033311,6,,GRCop-84,,UTS = approximately 415 MPa @ 20°C,,,,SLM,Fig. 8 and text,Fig. 8. Ultimate Tensile Strength vs Temperature of SLM GRCop-84/-42. While the SLM GRCop-84 exhibits an average of 8% higher ultimate strength at 20°C...,table
+227,20190033311,6,,GRCop-84,,YS = approximately 215 MPa @ 20°C,,,,SLM,Fig. 9 and text,Fig. 9. 0.2% Yield Strength vs Temperature of SLM GRCop-84/-42. While the SLM GRCop-84 exhibits an average of 14% higher yield strength at 20-400°C...,table
+228,20190033311,6,,GRCop-42,,UTS = approximately 385 MPa @ 20°C,,,,SLM,Fig. 8 and text,Fig. 8. Ultimate Tensile Strength vs Temperature of SLM GRCop-84/-42. ...the SLM GRCop-42 has similar strength above 200°C.,table
+229,20190033311,6,,GRCop-42,,YS = approximately 190 MPa @ 20°C,,,,SLM,Fig. 9 and text,Fig. 9. 0.2% Yield Strength vs Temperature of SLM GRCop-84/-42. ...the SLM GRCop-42 has similar strength above 600°C.,table
+230,20190033311,6,,GRCop-84,,UTS = approximately 500 MPa,,,,"SLM, MSFC HIP",Fig. 7,Fig. 7. Stress-Strain curve of SLM GRCop-42/-84 showing HIP and un-HIP conditions. (Data from 'GRCop-84 - MSFC HIP' curve),table
+231,20190033311,6,,GRCop-42,,UTS = approximately 400 MPa,,,,"SLM, MSFC HIP",Fig. 7,Fig. 7. Stress-Strain curve of SLM GRCop-42/-84 showing HIP and un-HIP conditions. (Data from 'GRCop-42 - MSFC HIP' curve),table
+232,20190033311,6,,GRCop-84,,UTS = approximately 550 MPa,,,,"SLM, MSFC No HIP",Fig. 7,Fig. 7. Stress-Strain curve of SLM GRCop-42/-84 showing HIP and un-HIP conditions. (Data from 'GRCop-84 - MSFC No HIP' curve),table
+233,20190033311,6,,GRCop-42,,UTS = approximately 300 MPa,,,,"SLM, M400 Vendor No HIP",Fig. 7,Fig. 7. Stress-Strain curve of SLM GRCop-42/-84 showing HIP and un-HIP conditions. (Data from 'GRCop-42 - M400 Vendor No HIP' curve),table
+234,20190033311,6,,GRCop-42,,UTS = approximately 350 MPa,,,,"SLM, M400 Vendor HIP",Fig. 7,Fig. 7. Stress-Strain curve of SLM GRCop-42/-84 showing HIP and un-HIP conditions. (Data from 'Grcop-42 - M400 Vendor HIP' curve),table
+235,20190033311,7,,SLM GRCop-42,,,,,,SLM,Fig. 10,Fig. 10. Elongation vs Temperature of SLM GRCop-84/-42.,table
+236,20190033311,7,,SLM GRCop-42,,,,ranging from approximately 290 W/m·K at 0 °C to 100-110 W/m·K at 800 °C,,SLM,Fig. 12,Fig. 12. Thermal Conductivity vs Temperature of SLM GRCop-84/-42.,table
+237,20190033311,7,,SLM GRCop-84,,,,,,SLM,Fig. 10,Fig. 10. Elongation vs Temperature of SLM GRCop-84/-42.,table
+238,20190033311,7,,SLM GRCop-84,,,,ranging from approximately 270 W/m·K at 0 °C to 80-90 W/m·K at 800 °C,,SLM,Fig. 12,Fig. 12. Thermal Conductivity vs Temperature of SLM GRCop-84/-42.,table
+239,20190033311,7,,"GRCop-42, GRCop-84",,,,GRCop-42 demonstrated a 5-8% higher conductivity than GRCop-84,,SLM,Text,Thermal conductivity was also measured with the SLM samples and as-expected the GRCop-42 demonstrated a 5-8% higher conductivity than the GRCop-84 (Fig. 12).,text
+240,20190033311,9,,Bimetallic Inconel 625 / GRCop base alloy,,,,,,"Bimetallic fabrication (e.g., EBF3, blown powder method); shrinkage of throat and overall length: nearly 10% observed in some development chambers; 3-9% with blown powder method",Text,"Several lessons were learned during the bimetallic development, including deposition toolpath strategy, proper diffusion and mixing of the Inconel 625 and GRCop base alloy, and shrinkage of the throat and overall length. In some development chambers, nearly 10% shrinkage was observed. The EBF3 used the highest heat input with the electron energy source, but required high heat to achieve good penetration of the Inconel 625 into the copper [22]. The blown powder did provide some reduction in heat with less distortion, but chambers still experienced 3-9% shrinkage.",text
+241,20190033311,10,,SLM GRCop-42,,,,,,,Text,"Sustained peak wall temperatures were demonstrated up to 727°C (1,340 °F) on the SLM GRCop-42 liners.",text
+242,20190033311,10,,GRCop-42,,,,,,,Text,Some liners from industry partners were fabricated with 50% reduction in surface roughness (indicated by profilometer and optical measurements) that resulted in a more than 20% reduction in coolant pressure drop.,text
+243,20190033311,12,,,,,,5-8% higher than SLM GRCop-84,,SLM,Text,SLM GRCop-42 offers 5-8% higher conductivity over SLM GRCop-84,text
+244,20190033311,13,Cu-8Cr-4Nb,GRCop-84,,,,,,,Text [6],Oxidation Behavior of GRCop-84 (Cu-8Cr-4Nb) at Intermediate and High Temperatures.,text
