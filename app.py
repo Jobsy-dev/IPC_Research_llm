@@ -23,7 +23,7 @@ DATA_DIR.mkdir(exist_ok=True)
 
 # Load API key (only needed for extraction step)
 load_dotenv()
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
 MODEL_NAME = "models/gemini-2.5-flash"
 
 # Columns for the dataset (must match step1 script)
