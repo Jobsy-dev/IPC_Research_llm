@@ -1,0 +1,6 @@
+streamlit
+pandas
+pdfplumber
+python-dotenv
+google-generativeai
+google-api-core
